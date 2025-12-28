@@ -35,6 +35,3 @@ The workflow is split into two Jupyter notebooks:
 - Sparse Matrices
 - LIBSVM format
 
----
-
-## Output
